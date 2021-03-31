@@ -1,0 +1,30 @@
+{
+  "itemGroup.crimsoncompass": "Crimson Compass",
+
+  "item.crimsoncompass.compass_multi": "Compass Structure Multi Finderer",
+  "item.crimsoncompass.compass_pillager": "Pillager Outpost Compass",
+  "item.crimsoncompass.compass_mineshaft": "Mineshaft Compass",
+  "item.crimsoncompass.compass_mansion": "Woodland Mansion Compass",
+  "item.crimsoncompass.compass_junglemid": "Jungle Pyramid Compass",
+  "item.crimsoncompass.compass_desertmid": "Desert Pyramid Compass",
+  "item.crimsoncompass.compass_bastion": "Bastion Remnant Compass",
+  "item.crimsoncompass.compass_treasure": "Sunken Treasure Compass",
+  "item.crimsoncompass.compass_end_city": "End City Compass",
+  "item.crimsoncompass.compass_fortress": "Nether Fortress Compass",
+  "item.crimsoncompass.compass_igloo": "Igloo Compass",
+  "item.crimsoncompass.compass_monument": "Ocean Monument Compass",
+  "item.crimsoncompass.compass_fossil": "Nether Fossil Compass",
+  "item.crimsoncompass.compass_ocean_ruin": "Ocean Ruin Compass",
+  "item.crimsoncompass.compass_ruined_portal": "Ruined Portal Compass",
+  "item.crimsoncompass.compass_shipwreck": "Shipwreck Compass",
+  "item.crimsoncompass.compass_stronghold": "Stronghold Compass",
+  "item.crimsoncompass.compass_swamp_hut": "Swamp Hut Compass",
+  "item.crimsoncompass.compass_village": "Village Compass",
+
+  "item.crimsoncompass.compass_death": "Death Compass",
+  "tip.crimsoncompass.nodeath": "No death point found",
+
+  "tip.crimsoncompass.found": "Structure found",
+  "tip.crimsoncompass.notfound": "No structure found nearby",
+  "tip.crimsoncompass.searching": "Searching for structure..."
+}

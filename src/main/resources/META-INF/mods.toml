@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[${loader_version},)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/MeinKraft/Crimson-Compass/issues" #optional
+
+[[mods]]
+modId="crimsoncompass"
+version="${version}"
+displayName="Crimson Compasses"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/crimson-compass"
+updateJSONURL="https://github.com/MeinKraft/Crimson-Compass/raw/main/update.json"
+authors="§4Crimson_Fluff"
+logoFile="logo.png" #optional
+description=''' Compasses for all your structure finding needs '''
+
+[[dependencies.crimsoncompass]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[${mc_version}]"
+  side="BOTH"
+[[dependencies.crimsoncompass]]
+    modId="forge"
+    mandatory=true
+    versionRange="[${forge_version},)"
+    side="BOTH"

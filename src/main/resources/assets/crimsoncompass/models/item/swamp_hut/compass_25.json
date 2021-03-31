@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "crimsoncompass:item/swamp_hut/compass_25"
+  }
+}
