@@ -1,0 +1,38 @@
+{
+  "itemGroup.crimsoncompass": "深红指南针",
+
+  "item.crimsoncompass.compass_multi": "Compass Structure Multi Finderer",
+  "item.crimsoncompass.compass_pillager": "掠夺者前哨指南针",
+  "item.crimsoncompass.compass_mineshaft": "废弃矿井指南针",
+  "item.crimsoncompass.compass_mansion": "林地府邸指南针",
+  "item.crimsoncompass.compass_junglemid": "丛林神庙指南针",
+  "item.crimsoncompass.compass_desertmid": "沙漠神殿指南针",
+  "item.crimsoncompass.compass_bastion": "堡垒遗迹指南针",
+  "item.crimsoncompass.compass_treasure": "埋藏宝藏指南针",
+  "item.crimsoncompass.compass_end_city": "末地城指南针",
+  "item.crimsoncompass.compass_fortress": "下界要塞指南针",
+  "item.crimsoncompass.compass_igloo": "雪屋指南针",
+  "item.crimsoncompass.compass_monument": "海底神殿指南针",
+  "item.crimsoncompass.compass_fossil": "下界化石指南针",
+  "item.crimsoncompass.compass_ocean_ruin": "水下遗迹指南针",
+  "item.crimsoncompass.compass_ruined_portal": "废弃传送门指南针",
+  "item.crimsoncompass.compass_shipwreck": "沉船指南针",
+  "item.crimsoncompass.compass_stronghold": "要塞指南针",
+  "item.crimsoncompass.compass_swamp_hut": "沼泽小屋指南针",
+  "item.crimsoncompass.compass_village": "村庄指南针",
+
+  "item.crimsoncompass.compass_death": "死亡点指南针",
+  "tip.crimsoncompass.nodeath": "设定范围内未找到死亡点",
+  "tip.crimsoncompass.death": "已找到死亡点",
+
+  "tip.crimsoncompass.notfound": "设定范围内未找到目标自然结构",
+  "tip.crimsoncompass.found": "已找到目标自然结构",
+  "tip.crimsoncompass.searching": "正在定位目标自然结构...",
+
+  "item.crimsoncompass.compass_worldspawn": "主世界出生点指南针",
+  "tip.crimsoncompass.spawnfound": "已找到主世界出生点",
+
+  "item.crimsoncompass.compass_bedspawn": "出生点床指南针",
+  "tip.crimsoncompass.bedspawn": "已找到出生点床",
+  "tip.crimsoncompass.nobedspawn": "未找到出生点床"
+}
